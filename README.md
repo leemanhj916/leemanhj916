@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Manh Le</h1>  
+<h1 align="center">Manh (Le Tien)</h1>  
 <h3 align="center">A passionate full stack developer and manager from Vietnam</h3>  
   
 <p align="left"> <a href="https://twitter.com/leemanhj916" target="blank"><img src="https://img.shields.io/twitter/follow/leemanhj916?logo=twitter&style=for-the-badge" alt="leemanhj916" /></a> </p>  
