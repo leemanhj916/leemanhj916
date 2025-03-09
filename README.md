@@ -4,9 +4,9 @@
   
 <p align="left"> <a href="https://twitter.com/leemanhj916" target="blank"><img src="https://img.shields.io/twitter/follow/leemanhj916?logo=twitter&style=for-the-badge" alt="leemanhj916" /></a> </p>  
   
-- 🌱 I’m currently learning **Everything**  
+- I’m currently learning **Everything**  
   
-- 📫 How to reach me **leemanhj916@gmail.com**  
+- How to reach me **leemanhj916@gmail.com**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
