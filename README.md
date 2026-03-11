@@ -4,7 +4,7 @@
   
 <p align="left"> <a href="https://twitter.com/leemanhj916" target="blank"><img src="https://img.shields.io/twitter/follow/leemanhj916?logo=twitter&style=for-the-badge" alt="leemanhj916" /></a> </p>  
   
-- I’m currently learning **Everything**  
+- I'm a Development Manager. **I build solutions, not just code.**  
   
 - How to reach me **leemanhj916@gmail.com**  
   
